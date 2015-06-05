@@ -2,29 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CubScoutPack 449</title>
-    <link>http://cubscoutpack449.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on CubScoutPack 449</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Jun 2015 08:50:20 -0400</lastBuildDate>
-    <atom:link href="http://cubscoutpack449.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2015 09:07:22 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About Pack 449</title>
-      <link>http://cubscoutpack449.github.io/about/</link>
-      <pubDate>Fri, 05 Jun 2015 08:50:20 -0400</pubDate>
+      <title>index</title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Fri, 05 Jun 2015 09:07:22 -0400</pubDate>
       
-      <guid>http://cubscoutpack449.github.io/about/</guid>
-      <description>&lt;p&gt;Based in Johns Creek, GA&lt;/p&gt;
+      <guid>http://localhost:1313/</guid>
+      <description>&lt;p&gt;Cub Scout Pack 449
+Johns Creek, GA&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>about</title>
-      <link>http://cubscoutpack449.github.io/posts/about/</link>
-      <pubDate>Fri, 05 Jun 2015 08:48:54 -0400</pubDate>
+      <title>About Pack 449</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 05 Jun 2015 08:50:20 -0400</pubDate>
       
-      <guid>http://cubscoutpack449.github.io/posts/about/</guid>
-      <description>&lt;p&gt;Hello!&lt;/p&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Based in Johns Creek, GA&lt;/p&gt;
 </description>
     </item>
     
