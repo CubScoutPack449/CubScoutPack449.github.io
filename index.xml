@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CubScoutPack 449</title>
-    <link>http://localhost:1313/</link>
+    <link>http://cubscoutpack449.github.io/</link>
     <description>Recent content on CubScoutPack 449</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 05 Jun 2015 09:07:22 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cubscoutpack449.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>index</title>
-      <link>http://localhost:1313/</link>
+      <title>Home</title>
+      <link>http://cubscoutpack449.github.io/</link>
       <pubDate>Fri, 05 Jun 2015 09:07:22 -0400</pubDate>
       
-      <guid>http://localhost:1313/</guid>
+      <guid>http://cubscoutpack449.github.io/</guid>
       <description>&lt;p&gt;Cub Scout Pack 449
 Johns Creek, GA&lt;/p&gt;
 </description>
@@ -21,10 +21,10 @@ Johns Creek, GA&lt;/p&gt;
     
     <item>
       <title>About Pack 449</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://cubscoutpack449.github.io/about/</link>
       <pubDate>Fri, 05 Jun 2015 08:50:20 -0400</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://cubscoutpack449.github.io/about/</guid>
       <description>&lt;p&gt;Based in Johns Creek, GA&lt;/p&gt;
 </description>
     </item>
